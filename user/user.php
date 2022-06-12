@@ -99,6 +99,11 @@ echo '
   <p align="center">Your power consumption has been tampered.</p>
 </div> '
 ?>
+<div class="button-container">
+  <div class="center">
+  <button onclick='location.href="user_login.php"'>Back</button>
+  </div>
+</div>
 </body>
 </html>
 

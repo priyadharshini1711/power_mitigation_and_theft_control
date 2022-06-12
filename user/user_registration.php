@@ -211,5 +211,10 @@ if (!empty($errorMessage) && is_array($errorMessage))
             </div>
         </div>
     </form>
+    <div class="button-container">
+  <div class="center">
+  <button onclick='location.href="user_login.php"'>Back</button>
+  </div>
+</div>
 </body>
 </html>
